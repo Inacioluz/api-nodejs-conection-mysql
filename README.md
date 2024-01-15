@@ -1,34 +1,116 @@
-COMO RODAR O PROJETO BAIXADO
-Instalar todas as dependencias indicada pelo package.json
-### npm install
+<p align="center">
 
-Rodar o projeto com nodemon
-### nodemon app.js
+<!-- ## 👏 Learning and more Implementations
+
+Describe what you learned and implemented in the project. -->
+
+## 💡 Technologies Used
+
+- [x] [JavaScript]([https://nextjs.org/](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript))
+- [x] [Node.js]([https://reactjs.org/](https://nodejs.org/en))
+
+
+## 📂 Folder Structure
 
 
 
-SEQUENCIA PARA CRIAR O PROJETO
-Criar o arquivo package
-### npm init
+## 🚀 Running the Project
 
-Gerencia as requisições, rotas e URLs, entre outra funcionalidades
-### npm install express
+<!-- ### Back-end
 
-Rodar o projeto 
-### node app.js
+Clone the project
 
-Acessar o projeto no navegador
-### http://localhost:8080
+```bash
+  git clone https://link-para-o-projeto
+```
 
-Instalar o módulo para reiniciar o servidor sempre que houver alteração no código fonte, g significa globalmente
-### npm install -g nodemon
-### npm install --save-dev nodemon
+Enter the project directory
 
-Rodar o projeto com nodemon
-### nodemon app.js
+```bash
+  cd my-project
+```
 
-Sequelize é uma biblioteca Javascript que facilita o gerenciamento de um banco de dados SQL
-### npm install --save sequelize
+Install with dependencies
 
-Instalar o drive do banco de dados
-### npm install --save mysql2
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+``` -->
+
+### Front-end Web
+
+Clone the project
+
+```bash
+  git clone https://github.com/VagnerNerves/portfolio.git
+```
+
+Enter the project directory
+
+```bash
+  cd portfolio
+```
+
+Install with dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+
+<!-- ### Mobile
+
+Clone the project
+
+```bash
+  git clone https://link-para-o-projeto
+```
+
+Enter the project directory
+
+```bash
+  cd my-project
+```
+
+Install with dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npx expo start
+```
+
+- IOS:
+
+```bash
+  npx pod-install && npx react-native run-ios
+```
+
+- Android:
+
+```bash
+  npx react-native run-android
+``` -->
+
+<!-- ## 📝 Routes
+
+[![Run in Postman](https://github.com/VagnerNerves/default-readme/blob/main/assets/run-in-postman.svg)](https://app.getpostman.com/run-collection/link)
+[![Run in Insomnia](https://github.com/VagnerNerves/default-readme/blob/main/assets/run-in-insomnia.svg)](https://insomnia.rest/run/?label=NAMEPROJECT&uri=LINK) -->
+
+## 🌎 License
+
+This project is under the MIT license. See the [LICENSE](https://github.com/VagnerNerves/portfolio/blob/main/LICENSE) file for more details.
