@@ -10,9 +10,6 @@ Describe what you learned and implemented in the project. -->
 - [x] [Node.js]([https://reactjs.org/](https://nodejs.org/en))
 
 
-## 📂 Folder Structure
-
-
 
 ## 🚀 Running the Project
 
