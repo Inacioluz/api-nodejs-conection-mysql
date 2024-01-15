@@ -44,7 +44,7 @@ Start the server
 Clone the project
 
 ```bash
-  git clone https://github.com/VagnerNerves/portfolio.git
+  git clone git@github.com:Inacioluz/api-nodejs-conection-mysql.git
 ```
 
 Enter the project directory
